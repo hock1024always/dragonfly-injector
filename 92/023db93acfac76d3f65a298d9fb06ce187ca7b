@@ -1,0 +1,19 @@
+README.md
+  s_d2e1af1ce5ff84::t_72fdaa78e8ead4 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "92023db93acfac76d3f65a298d9fb06ce187ca7b",
+  "prompts": {},
+  "sessions": {
+    "s_d2e1af1ce5ff84": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "5c7e2d15-221a-4767-880d-a5314727ab22",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
