@@ -1,0 +1,34 @@
+internal/webhook/v1/injector/unix_socket.go
+  s_d2e1af1ce5ff84::t_e3e8d265b672ba 51-53,56,72-74,76
+internal/webhook/v1/injector/binaries_test.go
+  s_d2e1af1ce5ff84::t_09d9bb243f98bc 322-336
+  s_d2e1af1ce5ff84::t_640aaaecaf1b77 499-500,507-518,522,526,529,536
+  s_906482fe0552fb::t_3c3474bb1ab562 337-339
+internal/webhook/v1/injector/binaries.go
+  s_d2e1af1ce5ff84::t_3b7a0864b83beb 108,117
+  s_d2e1af1ce5ff84::t_bd6859c6411a3d 25-34,44,47-50,90-92,94-101,103-107,109-113,115-116,118,120-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6491badfe8ec894f5126b1e10e6c6da3806843b7",
+  "prompts": {},
+  "sessions": {
+    "s_906482fe0552fb": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "34e3ee44-6465-4c5e-94d6-00064ec10da0",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    },
+    "s_d2e1af1ce5ff84": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "5c7e2d15-221a-4767-880d-a5314727ab22",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
