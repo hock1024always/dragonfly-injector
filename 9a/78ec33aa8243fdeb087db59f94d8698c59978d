@@ -1,0 +1,41 @@
+.github/workflows/check-size.yml
+  s_d2e1af1ce5ff84::t_5667916f7ddc15 16
+.github/workflows/docker.yml
+  s_d2e1af1ce5ff84::t_2fe736b0e655cf 16,45,53,60,67
+.github/workflows/e2e.yml
+  s_d2e1af1ce5ff84::t_2ca782b892a2e6 14,17
+.github/workflows/lint.yml
+  s_d2e1af1ce5ff84::t_c108f19abdfd70 15,18
+.github/workflows/pr-labels.yml
+  s_d2e1af1ce5ff84::t_dbee6f65626993 16
+.github/workflows/release.yml
+  s_d2e1af1ce5ff84::t_f32636b6f80188 17,22
+.github/workflows/stale.yml
+  s_d2e1af1ce5ff84::t_a30cb7ff913178 16
+.github/workflows/test.yml
+  s_d2e1af1ce5ff84::t_c0f4de0a1446ae 15,18
+internal/webhook/v1/injector/binaries.go
+  s_d2e1af1ce5ff84::t_5baf8b0197bcb9 25-32,42-44,46,92-99
+internal/webhook/v1/injector/config.go
+  s_d2e1af1ce5ff84::t_17c8d11ef3222e 20,22,79,84-90,92,94,124-144,148-149,153,157,159-177,183,188-192,194,200-210
+internal/webhook/v1/injector/config_test.go
+  s_d2e1af1ce5ff84::t_803472fdac7129 272-314,386-398
+test/utils/utils.go
+  s_d2e1af1ce5ff84::t_d822cb55a3bca0 273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9a78ec33aa8243fdeb087db59f94d8698c59978d",
+  "prompts": {},
+  "sessions": {
+    "s_d2e1af1ce5ff84": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "5c7e2d15-221a-4767-880d-a5314727ab22",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
