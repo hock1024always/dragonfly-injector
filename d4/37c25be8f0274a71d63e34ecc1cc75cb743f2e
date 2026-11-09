@@ -1,0 +1,19 @@
+cmd/main.go
+  s_d2e1af1ce5ff84::t_8c8e2d9a7e7cfc 83-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d437c25be8f0274a71d63e34ecc1cc75cb743f2e",
+  "prompts": {},
+  "sessions": {
+    "s_d2e1af1ce5ff84": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "5c7e2d15-221a-4767-880d-a5314727ab22",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
