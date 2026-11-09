@@ -1,6 +1,7 @@
 internal/webhook/v1/injector/config.go
   s_d2e1af1ce5ff84::t_e4b38b27f073bb 102-117
   s_d2e1af1ce5ff84::t_113d38f7250b44 141-142,195-198,214
+  s_d2e1af1ce5ff84::t_6b5ca39d57b39b 208-212
 internal/webhook/v1/injector/config_test.go
   s_d2e1af1ce5ff84::t_2a79406c081801 178-180
   s_d2e1af1ce5ff84::t_5304dd3d05329f 219-221
@@ -8,6 +9,7 @@ internal/webhook/v1/injector/config_test.go
   s_d2e1af1ce5ff84::t_292f39b23e42c0 382-417
   s_d2e1af1ce5ff84::t_d4689e79e00bdc 254-256
   s_d2e1af1ce5ff84::t_266c3f43427144 216-218,222-232
+  s_d2e1af1ce5ff84::t_f2fa4e20133e36 418-452
 ---
 {
   "schema_version": "authorship/3.0.0",
