@@ -1,0 +1,29 @@
+internal/webhook/v1/injector/config_test.go
+  s_d2e1af1ce5ff84::t_d4689e79e00bdc 254-256
+  s_d2e1af1ce5ff84::t_292f39b23e42c0 382-417
+  s_d2e1af1ce5ff84::t_5304dd3d05329f 219-221
+  s_d2e1af1ce5ff84::t_266c3f43427144 216-218,222-232
+  s_d2e1af1ce5ff84::t_769565697f3c17 175,186,188-192,194-195,198,208-209
+  s_d2e1af1ce5ff84::t_f2fa4e20133e36 418-452
+  s_d2e1af1ce5ff84::t_2a79406c081801 178-180
+internal/webhook/v1/injector/config.go
+  s_d2e1af1ce5ff84::t_113d38f7250b44 195-198,214
+  s_d2e1af1ce5ff84::t_6b5ca39d57b39b 208-212
+  s_d2e1af1ce5ff84::t_e4b38b27f073bb 102-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "094c6c407a94965992166a03fa469fdd28fcb55a",
+  "prompts": {},
+  "sessions": {
+    "s_d2e1af1ce5ff84": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "5c7e2d15-221a-4767-880d-a5314727ab22",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
